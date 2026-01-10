@@ -20,8 +20,3 @@ SKILLS:
 - JavaScript (Currently Learning) 📘  
 - Cloud Basics ☁️  
 - Git & GitHub  
-
----
-
-### 🌐 Socials
-- LinkedIn (add your link here)
