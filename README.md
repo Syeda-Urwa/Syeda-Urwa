@@ -9,8 +9,6 @@
 - 🆘 I’m looking for help with :Learning advanced coding and DevOps concepts 
 - 💬 Ask me about :Python basics, HTML, CSS, or tech support 
 
-⚡ Fun fact: I love tech — and tech loves me back 🚀  
-
 - Beginner in Python  
 - Familiar with basic syntax  
 - Learning logic building & problem solving  
