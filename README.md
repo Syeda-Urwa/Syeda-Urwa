@@ -1,109 +1,67 @@
- Hi 👋, I'm Syeda Urwa  
+# 👋 Hi, I'm Syeda Urwa  
 
-🎓 A student at UET Peshawar| Learning Coding, Python & Cloud Basics and Java script.  
+🌱 Passionate Learner | 💻 Tech Enthusiast | 🚀 Always Improving  
 
-📧 Email Me 👉 syedaurwa43219877@gmail.com (for collaboration, projects, or anything else 😊)
-- 🔭 I’m currently working on: improving my coding skills  
-- 🌱 I’m currently learning :Coding (Python), Cloud Basics & Java Script  
-- 🤝 I’m looking to collaborate on :Beginner-level coding or tech projects  
-- 🆘 I’m looking for help with :Learning advanced coding and DevOps concepts 
-- 💬 Ask me about :Python basics, HTML, CSS, or tech support 
-
-- Beginner in Python  
-- Familiar with basic syntax  
-- Learning logic building & problem solving  
-- Using Python for practice and small projects  
-SKILLS:
-- Python 🐍  
-- HTML 🌐  
-- CSS 🎨  
-- JavaScript (Currently Learning) 📘  
-- Cloud Basics ☁️  
-- Git & GitHub
-
-- 👋 Hi, I'm Syeda Urwa
-
-🌱 Passionate learner | 💻 Tech enthusiast | 🚀 Always improving
-
+✨ *“Learning never exhausts the mind.”*  
 
 ---
 
-👩‍💻 About Me
+## 👩‍💻 About Me  
 
-Curious and motivated developer who loves learning new technologies
+I’m a **curious and motivated developer** who enjoys learning new technologies and improving every day.  
+I love **problem-solving, logical thinking, and writing clean, readable code**.
 
-Enjoys problem‑solving, logical thinking, and clean code
-
-Believes in continuous self‑improvement and consistency
-
-Open to collaboration and knowledge sharing
-
-
+🔹 Consistency over perfection  
+🔹 Growth through learning and mistakes  
+🔹 Open to collaboration and knowledge sharing  
 
 ---
 
-🛠️ Skills & Tools
+## 🛠️ Skills & Tools  
 
-Languages
+### 💻 Programming Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Python 🐍
-
-C++
-
-HTML / CSS
-
-
-Tools & Platforms
-
-Git & GitHub
-
-VS Code
-
-Jupyter Notebook
-
-
+### 🧰 Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats  
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
-
-
-
-
----
-
-🌟 What I Value
-
-Consistency – small steps every day
-
-Growth – learning from mistakes
-
-Respect & Collaboration – learning together
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-🎯 Current Focus
+## 🌟 What I Value  
 
-Strengthening programming fundamentals
-
-Building real‑world projects
-
-Improving problem‑solving skills
-
-
+✅ **Consistency** – small progress every day  
+📈 **Growth** – learning from mistakes  
+🤝 **Respect & Collaboration** – growing together  
 
 ---
 
-📫 Connect With Me
+## 🎯 Current Focus  
 
-GitHub: https://github.com/YOUR_USERNAME
-
-
+- Strengthening programming fundamentals  
+- Building real-world projects  
+- Improving problem-solving skills  
 
 ---
 
-✨ "Learning never exhausts the mind."
+## 📫 Connect With Me  
+
+🔗 GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
+
+---
+
+⭐ *If you like my work, consider giving a star — it truly motivates me!*
+
