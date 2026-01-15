@@ -1,8 +1,5 @@
-# 👋 Hi, I'm Syeda Urwa  
-
-🌱 Passionate Learner | 💻 Tech Enthusiast | 🚀 Always Improving  
-
-✨ *“Learning never exhausts the mind.”*  
+<h1 align="center">Hi 👋, I'm Syeda Urwa</h1>
+<h3 align="center">Electrical Engineering (Computing & AI) | AI & Smart Systems Enthusiast ⚡🤖</h3> 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Electrical+Engineer+%26+AI+Learner;Passionate+about+Smart+Systems;Always+Learning+New+Technologies&center=true&width=500&height=45">
