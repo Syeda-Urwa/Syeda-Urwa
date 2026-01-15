@@ -4,6 +4,10 @@
 
 ✨ *“Learning never exhausts the mind.”*  
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Electrical+Engineer+%26+AI+Learner;Passionate+about+Smart+Systems;Always+Learning+New+Technologies&center=true&width=500&height=45">
+</p>
+
 ---
 
 ## 👩‍💻 About Me  
