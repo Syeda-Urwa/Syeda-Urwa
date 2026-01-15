@@ -19,4 +19,91 @@ SKILLS:
 - CSS 🎨  
 - JavaScript (Currently Learning) 📘  
 - Cloud Basics ☁️  
-- Git & GitHub  
+- Git & GitHub
+
+- 👋 Hi, I'm Syeda Urwa
+
+🌱 Passionate learner | 💻 Tech enthusiast | 🚀 Always improving
+
+
+---
+
+👩‍💻 About Me
+
+Curious and motivated developer who loves learning new technologies
+
+Enjoys problem‑solving, logical thinking, and clean code
+
+Believes in continuous self‑improvement and consistency
+
+Open to collaboration and knowledge sharing
+
+
+
+---
+
+🛠️ Skills & Tools
+
+Languages
+
+Python 🐍
+
+C++
+
+HTML / CSS
+
+
+Tools & Platforms
+
+Git & GitHub
+
+VS Code
+
+Jupyter Notebook
+
+
+
+---
+
+📊 GitHub Stats
+
+
+
+
+
+
+---
+
+🌟 What I Value
+
+Consistency – small steps every day
+
+Growth – learning from mistakes
+
+Respect & Collaboration – learning together
+
+
+
+---
+
+🎯 Current Focus
+
+Strengthening programming fundamentals
+
+Building real‑world projects
+
+Improving problem‑solving skills
+
+
+
+---
+
+📫 Connect With Me
+
+GitHub: https://github.com/YOUR_USERNAME
+
+
+
+---
+
+✨ "Learning never exhausts the mind."
