@@ -60,11 +60,10 @@ I love **problem-solving, logical thinking, and writing clean, readable code**.
 ## 📫 Connect With Me  
 
 🔗 **GitHub:** https://github.com/SyedaUrwa  
-💼 **LinkedIn:** https://[www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/syeda-urwa-313180368?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+💼 **LinkedIn:** https://www.linkedin.com/in/syeda-urwa  
 📧 **Email:** syedaurwa43219877@gmail.com 
 
 
 ---
 
-⭐ *If you like my work, consider giving a star — it truly motivates me!*
 
