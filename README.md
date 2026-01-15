@@ -35,9 +35,9 @@ I love **problem-solving, logical thinking, and writing clean, readable code**.
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syeda-Urwa&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedaUrwa&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syeda-Urwa&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaUrwa&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -59,7 +59,10 @@ I love **problem-solving, logical thinking, and writing clean, readable code**.
 
 ## 📫 Connect With Me  
 
-🔗 GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
+🔗 **GitHub:** https://github.com/SyedaUrwa  
+💼 **LinkedIn:** https://[www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/syeda-urwa-313180368?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+📧 **Email:** syedaurwa43219877@gmail.com 
+
 
 ---
 
