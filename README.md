@@ -52,10 +52,19 @@ I love **problem-solving, logical thinking, and writing clean, readable code**.
 
 ## 📫 Connect With Me  
 
-🔗 **GitHub:** https://github.com/SyedaUrwa  
-💼 **LinkedIn:** https://www.linkedin.com/in/syeda-urwa  
-📧 **Email:** syedaurwa43219877@gmail.com 
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/syeda-urwa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  
+  <a href="syedaurwa43219877@gmail.com ">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  
+  <a href="https://github.com/Syeda-Urwa">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 <!-- Snake Game Repo View -->
